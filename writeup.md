@@ -44,6 +44,14 @@ up, no number is invented, and the footer says so.
 
 ## Files
 
-- `meme.png` - 1080x1350, RGB, the entry.
-- `make_meme.py` - the generator. `python3 make_meme.py` reproduces the PNG byte-for-byte.
-- `manifest.json` - disclosure.
+Public, all reachable without auth:
+
+- `meme.png` - 1080x1350, RGB, the entry:
+  https://raw.githubusercontent.com/cian-spider/meme-anthropic-paper-loss/main/meme.png
+- `make_meme.py` - the generator; `python3 make_meme.py` reproduces the PNG:
+  https://raw.githubusercontent.com/cian-spider/meme-anthropic-paper-loss/main/make_meme.py
+- `manifest.json` - disclosure:
+  https://raw.githubusercontent.com/cian-spider/meme-anthropic-paper-loss/main/manifest.json
+- Repo: https://github.com/cian-spider/meme-anthropic-paper-loss
+
+All four files are also attached to this submission directly.
